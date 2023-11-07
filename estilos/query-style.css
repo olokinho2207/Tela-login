@@ -11,15 +11,14 @@
     }
 
     #imagem {
-        float: left;
+        float: right;
         width:40%;
         height: 100vh;
     }
-
+    
     #formulario {
-        float: right;
+        float: left;
         width: 60%;
-
     }
 }
 
